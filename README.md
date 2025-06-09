@@ -1,23 +1,36 @@
-# Hey there, I'm Metr (aka metrokitten, metrlith... and more names)
+# Hey there, I'm Metr (aka metrokitten, metrlith... and more)
 
-Welcome to my corner of the Internet! I'm a very cute 17 years old Turkish programmer cat :3
+Welcome to my little corner of the internet! I'm a very cute 17-year-old Turkish programmer cat :3
 
 ## 🚀 Projects I'm proud of
-- 🎮 [**CandyCrushLevelEditor**](https://github.com/metrlith/CandyCrushLevelEditor): A creative tool for designing your own Candy Crush levels! Made with Blaki, my friend.
-- 📚 [**eTwinning-Knowledge-Base**](https://github.com/metrlith/eTwinning-Knowledge-Base): A simple, yet educational place to learn how to use eTwinning and Twinspace (because the EU did not make it clear!)
+- 🎮 [**CandyCrushLevelEditor**](https://github.com/metrlith/CandyCrushLevelEditor) – A creative tool for designing your own Candy Crush levels! Built with my friend Blaki.
+- 📚 [**eTwinning-Knowledge-Base**](https://github.com/metrlith/eTwinning-Knowledge-Base) – A simple, helpful resource to explain eTwinning and Twinspace (because the EU sure didn’t).
 
 ## 💻 Favorite Tech
 I enjoy working with:
-- `Markdown` — for writing clean, structured docs
-- `HTML` — for building simple, expressive web pages
+- `Markdown` – for writing clean, structured docs
+- `HTML` – for building expressive, simple web pages
+- `Java` - for making Minecraft mods
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=metrlith&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metrlith&layout=compact&theme=radical)
 
 ## 🎧 Music keeps me going
-Coding without music? Couldn't be me.  
-Feel free to recommend me something — I'm always listening (Turkish pop lelelelelelele)
+Coding without music? Couldn’t be me.
+I'm always listening — especially Turkish pop (lelelelelele). Feel free to send recs!
 
-## 💬 Say hi!
-- Discord: `_metr_` (DM me if you wanna chat about projects or music)
+## 🌱 Currently Learning
+- Python
+- GO
+- Linux sysadmin shenanigans
+
+## 📬 How to reach me
+- Discord: `_metr_` (DMs open for chats about coding, music, or cat pics)
+- GitHub: [metrlith](https://github.com/metrlith)
 
 ---
 
-🌀 This is a mix of fun and function — just like my life.
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+
+This README is a mix of fun and function — just like my life.
