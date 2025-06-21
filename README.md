@@ -1,6 +1,6 @@
 # Hey there, I'm Metr (aka metrokitten, metrlith... and more)
 
-Welcome to my little corner of the internet! I'm a very cute 17-year-old Turkish programmer cat :3
+Welcome to my little corner of the internet! I'm a programmer, coding with different languages (with limited knowledge).
 
 ## 🚀 Projects I'm proud of
 - 🎮 [**CandyCrushLevelEditor**](https://github.com/metrlith/CandyCrushLevelEditor) – A creative tool for designing your own Candy Crush levels! Built with my friend Blaki.
@@ -18,12 +18,12 @@ I enjoy working with:
 
 ## 🎧 Music keeps me going
 Coding without music? Couldn’t be me.
-I'm always listening — especially Turkish pop (lelelelelele). Feel free to send recs!
+I'm always listening — especially Turkish pop (Hadise/İrem Derici). Feel free to send recs!
 
 ## 🌱 Currently Learning
 - Python
 - GO
-- Linux sysadmin shenanigans
+- Java
 
 ## 📬 How to reach me
 - Discord: `_metr_` (DMs open for chats about coding, music, or cat pics)
@@ -33,4 +33,4 @@ I'm always listening — especially Turkish pop (lelelelelele). Feel free to sen
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
-This README is a mix of fun and function — just like my life.
+This README is like my life
