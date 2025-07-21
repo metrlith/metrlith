@@ -1,29 +1,82 @@
-# Hey there, I'm Metr (aka metrokitten, metrlith... and more)
+# 🐾 MetroKitten (a.k.a. Metr)
 
-Welcome to my little corner of the internet!
-
-## 💻 Favs
-I enjoy working with:
-- `Markdown` – for writing clean, structured docs
-- `HTML` – for building expressive, simple web pages
-- `Java` - because I love Duke!
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=metrlith&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metrlith&layout=compact&theme=radical)
-
-## 🎧 Music keeps me going
-I'm always listening — especially Turkish pop (Hadise/İrem Derici). Feel free to send recs!
-
-## 🌱 Currently Learning
-- Python
-- GO
-- Java (more Duke)
-
-## 📬 How to reach me
-- Discord: `_metr_` (DMs open for chats about coding, music, or cat pics)
-- GitHub: [metrlith](https://github.com/metrlith)
+> I fix bugs, listen to music, and pet cats. Sometimes all at once.
 
 ---
 
-Pilavdan dönenin kaşığı kırılsın!
+## 👤 About Me
+
+Hello! I'm **MetroKitten**, but you can call me **Metr**. I'm a passionate, curious, and sarcastically charming student who loves **coding**, **cats**, and everything in between. I write code, break code, and occasionally cry over broken code — it's a lifestyle.
+
+I spend most of my time juggling Discord bot development, game modding, website design, network troubleshooting, and dealing with scammers. Sometimes, I even pretend I’m not being censored on the internet (thanks, Turkey 😿).
+
+---
+
+## 🧠 What I Know
+
+**Languages & Tools I Use Regularly:**
+
+- 💻 **JavaScript**, **TypeScript**, **HTML**, **CSS**
+- 🐍 **Python**
+- ☕ **Java** (for Minecraft modding, sometimes)
+- 📦 VS Code is my command center
+- 🐱 Discord bots, my digital pets
+
+---
+
+## 📌 Notable Projects
+
+- **🎮 [Candy Crush Forever!](https://github.com/metrlith/CandyCrushForever)**
+  The mix of 2 Candy Crush tools at once; this project allows you to make mouth-drooling, sugary custom levels for yourself!
+
+- **🌐 Doğanlar Otomotiv Website**
+  Full website redesign with edge-to-edge hero images, particle backgrounds, responsive layout, and FAQ sections for a Subaru-authorized service center. Soon, I will also publish it here!
+
+- **🌍 [Earthquake Alerts Discord Bot](https://github.com/metrlith/Earthquake-Alerts)**
+  Real-time alert bot for earthquakes around the world with magnitude/region filters, slash commands, SQLite storage, and an optional `/fakealert` command for fun. It creates hilarious earthquake messages!
+
+- **🔬 Scam Investigations & Geolocation Quizzes**
+  I break down phishing emails, reverse-engineer sketchy sites, and train people on how to spot fakes — all with a flair for memes and mystery 😌
+
+- **🇺🇳 [NationDex](https://github.com/Aram-Development/Nationdex-AA)
+  Ariel Aram has found me suitable for the honorable position of being one of the main developers of NationDex! After 1 year of downtime, the bot is back online!
+
+---
+
+## 🌐 Interests
+
+- 🧠 **Cybersecurity** and **censorship circumvention** (WARPing)
+- 🌍 Digital geography & transportation (Istanbul rail maps, route planning)
+- 🎮 Games I love: DELTARUNE, ASTRONEER, Minecraft, Haste — especially when I can hack/mod them 😼😼
+- 🐈 Cats. Obviously.
+- 📡 Bypassing weird tech limitations because *FUCK THE GOVERMENT!!! AHAHAHAHAHAHA!!!!!* 
+
+---
+
+## 💬 Fun Facts
+
+- I once *inspected a phishing email’s source code in real-time*, edited it and kept a scammer talking for days. That's dedication!! 👀
+- I can recognize Istanbul neighborhoods by **satellite images**, you can even find me in Istanbul at any random time (and at any random place). If you want to meet me... 😼
+- I maintain *more Discord slash commands than some bots have users.*
+- I created a fake earthquake in Discord. Just to see how it would look. 🔥🌍
+
+---
+
+## 🎯 Current Focus
+
+- Expanding the Earthquake bot into a **full mobile app**
+- Refactoring open-source bots to actually work and not scream at me with type errors
+- Adding even *more* flair and structure to the Candy Crush Editor
+- Wishing my friends would stop ghosting me and reply faster 🙄
+
+---
+
+## 📬 Contact
+
+I live in Istanbul, but the best way to find me is through Discord (if it’s not blocked again). You can contact me [via my profile.](discord.com/users/877557616094638112)
+
+I'm always down to talk tech, projects, or play games!
+
+---
+
+> May your CSS be clean, your bots never rate limit, and your life be joyful. 😼
