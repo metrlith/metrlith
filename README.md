@@ -103,6 +103,4 @@ I'm always down to talk tech, projects, or play games!
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/877557616094638112?idleMessage=zzz...&theme=dark&showDisplayName=true)](https://discord.com/users/877557616094638112)
 
-![snake gif](https://github.com/metrlith/metrlith/blob/main/github-contribution-grid-snake.svg)
-
 > May your CSS be clean, your bots never rate limit, and your life be joyful. 😼
