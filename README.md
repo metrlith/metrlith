@@ -29,16 +29,16 @@ I spend most of my time juggling Discord bot development, game modding, website 
 - **🎮 [Candy Crush Forever!](https://github.com/metrlith/CandyCrushForever)**
   The mix of 2 Candy Crush tools at once; this project allows you to make mouth-drooling, sugary custom levels for yourself!
 
-- **🌐 Doğanlar Otomotiv Website**
+- **🌐 Doğanlar Otomotiv Website:**
   Full website redesign with edge-to-edge hero images, particle backgrounds, responsive layout, and FAQ sections for a Subaru-authorized service center. Soon, I will also publish it here!
 
-- **🌍 [Earthquake Alerts Discord Bot](https://github.com/metrlith/Earthquake-Alerts)**
+- **🌍 [Earthquake Alerts Discord Bot](https://github.com/metrlith/Earthquake-Alerts):**
   Real-time alert bot for earthquakes around the world with magnitude/region filters, slash commands, SQLite storage, and an optional `/fakealert` command for fun. It creates hilarious earthquake messages!
 
-- **🔬 Scam Investigations & Geolocation Quizzes**
+- **🔬 Scam Investigations & Geolocation Quizzes:**
   I break down phishing emails, reverse-engineer sketchy sites, and train people on how to spot fakes — all with a flair for memes and mystery 😌
 
-- **🇺🇳 [NationDex](https://github.com/Aram-Development/Nationdex-AA)
+- **🇺🇳 [NationDex](https://github.com/Aram-Development/Nationdex-AA):**
   Ariel Aram has found me suitable for the honorable position of being one of the main developers of NationDex! After 1 year of downtime, the bot is back online!
 
 ---
