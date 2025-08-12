@@ -28,17 +28,17 @@ I spend most of my time bouncing between Discord bot development, normal develop
 * **🎮 [Candy Crush Forever!](https://github.com/metrlith/CandyCrushForever)**
 It's a mix of 2 tools; an editor and a web player that allows you to make your own Candy Crush levels! I know you always imagined about this one 😉
 
-* **🚙 [Doğanlar Otomotiv Website](https://github.com/Doganlar-Otomotiv/DoganlarWebsite)**
-The original website was made with a site editor (which is heavy on resources), that wasn't even well made. This one, it's custom coded with a simpler and more sleek design, that's practically the same with the old one!
+* **🚙 [Doğanlar Otomotiv Website](https://github.com/Doganlar-Otomotiv/DoganlarWebsite):**
+the original website was made with a site editor (which is heavy on resources), that wasn't even well made. This one, it's custom coded with a simpler and more sleek design, that's practically the same with the old one!
 
 * **🌍 [Earthquake Alerts Discord Bot](https://github.com/metrlith/Earthquake-Alerts):**
-Real-time alert bot for earthquakes around the world with magnitude/region filters, slash commands, SQLite storage, and sample message testing. It pulls information from USGS earthquake feeds.
+real-time alert bot for earthquakes around the world with magnitude/region filters, slash commands, SQLite storage, and sample message testing. It pulls information from USGS earthquake feeds.
 
 * **🇺🇳 [NationDex](https://github.com/Aram-Development/Nationdex-AA):**
 Ariel Aram has found me suitable for the honorable position of being one of the main developers of NationDex! After 1 year of downtime, the bot is back online (and it's being rewritten by me 🤫)
 
 * **🌐 [File Sandbox](https://github.com/metrlith/File-Sandbox)**
-It's my latest project. My mission is to discover every file extension out there. A file extension, for example, is: `.md`, `.js`, `.py`, `.ts`, etc... Surely it will be hard, but I accept contributions!
+it's my latest project. My mission is to discover every file extension out there. A file extension, for example, is: `.md`, `.js`, `.py`, `.ts`, etc... Surely it will be hard, but I accept contributions!
 
 
 ---
